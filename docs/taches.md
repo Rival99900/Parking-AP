@@ -2,7 +2,6 @@
 
 > Application web de réservation de places de parking numérotées pour le personnel des ligues.
 > Suivi des tâches en direct : **Asana** (projet « Projet Parking »).
-> Ce fichier est la version documentée et versionnée de la liste des tâches, triée par ordre de priorité.
 
 ---
 
