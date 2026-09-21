@@ -1,4 +1,4 @@
-# 🗺️ Plan du site — Projet Parking
+# 🗺️ Plan du site — Parking-AP
 
 > Application web de réservation de places de parking numérotées pour le personnel des ligues.
 > Ce document décrit l'arborescence du site, les URLs de chaque page et les règles d'accès.
