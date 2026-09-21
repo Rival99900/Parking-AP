@@ -1,4 +1,4 @@
-# 📋 Liste des tâches — Projet Parking
+# 📋 Liste des tâches — Parking-AP
 
 > Application web de réservation de places de parking numérotées pour le personnel des ligues.
 > Suivi des tâches en direct : **Asana** (projet « Projet Parking »).
