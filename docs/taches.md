@@ -38,7 +38,7 @@
 - [ ] Vérifier que chaque membre a bien fait au moins un commit
 - [x] Déposer l'adresse du repo (et la branche si autre que `master`) sur la plateforme
 
-### 🔴 Priorité 1 — MCD + préparation de la BDD *(Ibrahima)*
+### 🔴 Priorité 2 — MCD + préparation de la BDD *(Ibrahima)*
 
 - [ ] Lister les entités et attributs prochainement.
 - [ ] Définir les associations et cardinalités
@@ -52,7 +52,7 @@
 - [ ] Exporter le MCD en image (PNG) + conserver le fichier source
 - [ ] Déposer le tout dans `docs/mcd/`
 
-### 🟠 Priorité 2 — Plan du site avec URLs *(Albert)*
+### 🟠 Priorité 3 — Plan du site avec URLs *(Albert)*
 
 - [ ] Lister les pages du **front-office** (connexion, mot de passe oublié, espace utilisateur, réservation, historique, changement de mot de passe, aide)
 - [ ] Lister les pages du **back-office** (connexion admin, utilisateurs, places, file d'attente, historique, attribution manuelle, paramètres)
@@ -61,7 +61,7 @@
 - [ ] Rédiger `docs/plan-du-site.md`
 - [ ] Vérifier la cohérence avec les maquettes de Chris-Elliot
 
-### 🟠 Priorité 2 — Maquettes *(Chris-Elliot)*
+### 🟠 Priorité 4 — Maquettes *(Chris-Elliot)*
 
 - [ ] Choisir l'outil (Figma, draw.io, Balsamiq...)
 - [ ] Front-office : connexion
@@ -75,7 +75,7 @@
 - [ ] Prévoir une version **mobile** de chaque page (design responsive)
 - [ ] Exporter en PNG/PDF dans `docs/maquettes/`
 
-### 🟡 Priorité 3 — Revue finale *(toute l'équipe)*
+### 🟡 Priorité 5 — Revue finale *(toute l'équipe)*
 
 - [ ] Relire ensemble le MCD, les maquettes et le plan du site
 - [ ] Vérifier que les URLs du plan du site correspondent aux maquettes
