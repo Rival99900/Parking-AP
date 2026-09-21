@@ -1,4 +1,4 @@
-# 📓 Journal de bord — Projet Parking
+# 📓 Journal de bord — Parking-AP
 
 > Suivi chronologique du travail de l'équipe. Une ligne par action importante.
 
