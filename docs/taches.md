@@ -23,7 +23,7 @@
 - [x] Créer le dépôt GitHub du projet
 - [x] Ajouter Ibrahima et Chris-Elliot comme collaborateurs
 - [x] Créer l'arborescence :
-  ```
+ ```text
   Parking-AP/
 ├── README.md              
 ├── .gitignore
@@ -36,10 +36,10 @@
 │       └── sql/
 │           └── parking.sql
 └── src/
-  ```
+```
 - [x] Rédiger le `README.md` (présentation, équipe, structure du repo)
 - [x] Ajouter ce fichier `taches.md` dans `docs/`
-- [ ] Vérifier que chaque membre a bien fait au moins un commit
+- [x] Vérifier que chaque membre a bien fait au moins un commit
 - [x] Déposer l'adresse du repo (et la branche si autre que `master`) sur la plateforme
 
 ### 🔴 Priorité 2 — MCD + préparation de la BDD *(Ibrahima)*
@@ -69,7 +69,7 @@
 
 ### 🟠 Priorité 4 — Maquettes *(Chris-Elliot)*
 
-- [ ] Choisir l'outil (Figma, draw.io, Balsamiq...)
+- [x] Choisir l'outil (Figma, draw.io, Balsamiq...)
 - [ ] Front-office : connexion
 - [ ] Front-office : tableau de bord (place attribuée / rang dans la file / bouton « Réserver »)
 - [ ] Front-office : historique des places
