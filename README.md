@@ -157,11 +157,11 @@ Parking-AP/
 - [x] Plan du site avec URLs (`docs/plan-du-site.md`)
 - [ ] MCD et préparation de la base de données
 - [ ] Maquettes (front-office et back-office, desktop et mobile)
-- [ ] Relecture croisée de la documentation
-- [ ] Création de la base de données
-- [ ] Authentification et gestion des mots de passe
-- [ ] Réservation, file d'attente et expiration automatique
-- [ ] Espace administrateur
+- [x] Relecture croisée de la documentation
+- [x] Création de la base de données
+- [x] Authentification et gestion des mots de passe
+- [x] Réservation, file d'attente et expiration automatique
+- [x] Espace administrateur
 - [ ] Contrôles de saisie et protection contre les injections
 - [ ] HTML / CSS / responsive
 - [ ] Documentation utilisateur et technique
