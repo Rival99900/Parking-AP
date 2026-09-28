@@ -129,8 +129,10 @@ Parking-AP/
 │   ├── taches.md          ← liste des tâches et répartition
 │   ├── plan-du-site.md    ← arborescence et URLs
 │   ├── journal.md         ← journal de bord de l'équipe
-│   ├── mcd/               ← MCD (fichier source + export image)
-│   └── maquettes/         ← maquettes desktop et mobile
+│   ├── maquettes/         ← maquettes desktop et mobile
+│   └── MCD-BDD/
+│       └── sql/
+│           └── parking.sql  ← script SQL complet (structure + données test)
 └── src/                   ← code de l'application
 ```
 

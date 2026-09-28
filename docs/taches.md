@@ -24,14 +24,18 @@
 - [x] Ajouter Ibrahima et Chris-Elliot comme collaborateurs
 - [x] Créer l'arborescence :
   ```
-  parking/
-  ├── README.md
-  ├── docs/
-  │   ├── mcd/
-  │   ├── maquettes/
-  │   ├── plan-du-site.md
-  │   └── taches.md
-  └── src/
+  Parking-AP/
+├── README.md              
+├── .gitignore
+├── docs/
+│   ├── taches.md
+│   ├── plan-du-site.md 
+│   ├── journal.md
+│   ├── maquettes/
+│   └── MCD-BDD/
+│       └── sql/
+│           └── parking.sql
+└── src/
   ```
 - [x] Rédiger le `README.md` (présentation, équipe, structure du repo)
 - [x] Ajouter ce fichier `taches.md` dans `docs/`
@@ -40,8 +44,8 @@
 
 ### 🔴 Priorité 2 — MCD + préparation de la BDD *(Ibrahima)*
 
-- [ ] Lister les entités et attributs prochainement.
-- [ ] Définir les associations et cardinalités
+- [x] Lister les entités et attributs
+- [ ] Définir les associations et cardinalités — **en cours**
 - [ ] Prévoir la gestion du mot de passe perdu (jeton de réinitialisation)
 - [ ] Rédiger les règles de gestion, notamment :
   - une place est attribuée aléatoirement et immédiatement si elle est libre
@@ -49,6 +53,9 @@
   - si aucune place n'est libre, l'utilisateur passe en liste d'attente
   - impossible de demander une place si on est en attente ou si on en occupe déjà une
   - une réservation peut être fermée avant son expiration (par l'utilisateur ou l'admin)
+- [x] Créer la base `parking` sous phpMyAdmin (InnoDB, utf8mb4_general_ci)
+- [x] Créer les 6 tables : utilisateur, place, reservation, file_attente, parametre, reset_token
+- [x] Insérer données de test : 1 admin + 2 utilisateurs validés
 - [ ] Exporter le MCD en image (PNG) + conserver le fichier source
 - [ ] Déposer le tout dans `docs/mcd/`
 

@@ -19,8 +19,11 @@
 | 21/09/2026 | Albert | Création du dépôt GitHub `Parking-AP` (branche `main`) | ✅ Fait |
 | 21/09/2026 | Albert | Ajout de `docs/taches.md` (équipe et responsabilités) | ✅ Fait |
 | 21/09/2026 | Albert | Rédaction de `docs/plan-du-site.md` (arborescence + URLs) | ✅ Fait |
-| … | Ibrahima | MCD (entités, associations, cardinalités, règles de gestion) | ⏳ À faire |
-| … | Ibrahima | Préparation de la base de données | ⏳ À faire |
+| 21/09/2026 | Ibrahima | Installation XAMPP (Apache, MySQL, PHP 8.2, phpMyAdmin) + résolution conflits ports | ✅ Fait |
+| 21/09/2026 | Ibrahima | Création structure projet `C:\xampp\htdocs\parking` (config, includes, public, admin, sql) | ✅ Fait |
+| 28/09/2026 | Ibrahima | MCD (entités, associations, cardinalités, règles de gestion) — **commencé** | 🔄 En cours |
+| 28/09/2026 | Ibrahima | Création base `parking` sous phpMyAdmin (InnoDB, utf8mb4_general_ci) — 6 tables : utilisateur, place, reservation, file_attente, parametre, reset_token | ✅ Fait |
+| 28/09/2026 | Ibrahima | Insertion données de test : 1 admin + 2 utilisateurs validés | ✅ Fait |
 | … | Chris-Elliot | Maquettes front-office (desktop + mobile) | ⏳ À faire |
 | … | Chris-Elliot | Maquettes back-office (desktop + mobile) | ⏳ À faire |
 | … | Équipe | Relecture croisée MCD / maquettes / plan du site | ⏳ À faire |
