@@ -58,7 +58,7 @@
 - [ ] Lister les pages du **back-office** (connexion admin, utilisateurs, places, file d'attente, historique, attribution manuelle, paramètres)
 - [ ] Définir l'URL de chaque page
 - [ ] Réaliser un schéma en arbre du site
-- [ ] Rédiger `docs/plan-du-site.md`
+- [x] Rédiger `docs/plan-du-site.md`
 - [ ] Vérifier la cohérence avec les maquettes de Chris-Elliot
 
 ### 🟠 Priorité 4 — Maquettes *(Chris-Elliot)*
