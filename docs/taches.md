@@ -54,10 +54,9 @@
 
 ### 🟠 Priorité 3 — Plan du site avec URLs *(Albert)*
 
-- [ ] Lister les pages du **front-office** (connexion, mot de passe oublié, espace utilisateur, réservation, historique, changement de mot de passe, aide)
-- [ ] Lister les pages du **back-office** (connexion admin, utilisateurs, places, file d'attente, historique, attribution manuelle, paramètres)
-- [ ] Définir l'URL de chaque page
-- [ ] Réaliser un schéma en arbre du site
+- [x] Lister les pages du **front-office** (connexion, mot de passe oublié, espace utilisateur, réservation, historique, changement de mot de passe, aide)
+- [x] Lister les pages du **back-office** (connexion admin, utilisateurs, places, file d'attente, historique, attribution manuelle, paramètres)
+- [x] Définir l'URL de chaque page
 - [x] Rédiger `docs/plan-du-site.md`
 - [ ] Vérifier la cohérence avec les maquettes de Chris-Elliot
 
